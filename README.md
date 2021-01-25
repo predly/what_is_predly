@@ -2,7 +2,7 @@
 
 Weather forecasting models need observation data to determine the atmospheres condition. The more observations, the better the forecast.
 
-In Berlin, there are only 5 government weather stations for an area of > 880 km² to provide ground observation data. That means, there is only 1 observation per ~180 km². The American leading forecast system GFS can only predict 1 value for an area of 156.25 km³. The best resolution model by Germany's DWD (COSMO model) predicts in 4 km² grids, but relies on the same ground observation data.
+In Berlin, there are only 5 government weather stations for an area of > 880 km² to provide ground observation data. That means, there is only 1 observation per ~180 km² in average. The American leading forecast system GFS can only predict 1 value for an area of 156.25 km³. The best resolution model by Germany's DWD (COSMO model) predicts in 4 km² grids, but relies on the same ground observation data.
 
 ## Example location: Berlin
 
